@@ -22,7 +22,7 @@ class Cat extends Animal {
 
     @Override
     void swim(int length) {
-        System.out.println(name + " can't swim");
+        System.out.println("Cats can't swim");
     }
 
 }
